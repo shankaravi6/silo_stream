@@ -1,0 +1,10 @@
+dev\silo\silo_stream\SiloStreamApplication.class
+dev\silo\silo_stream\Slides.class
+dev\silo\silo_stream\Slides$Director.class
+dev\silo\silo_stream\MovieService.class
+dev\silo\silo_stream\Slides$Cast.class
+dev\silo\silo_stream\MovieRepository.class
+dev\silo\silo_stream\SlideRepository.class
+dev\silo\silo_stream\ApiResponse.class
+dev\silo\silo_stream\MovieController.class
+dev\silo\silo_stream\Movies.class
